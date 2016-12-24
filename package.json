@@ -1,0 +1,24 @@
+{
+  "name": "wechaty-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "qrcode-terminal": "^0.11.0",
+    "tuling": "0.0.3",
+    "wechaty": "^0.6.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitores/wechaty-demo.git"
+  },
+  "author": "huangzhengjie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitores/wechaty-demo/issues"
+  },
+  "homepage": "https://github.com/bitores/wechaty-demo#readme"
+}
