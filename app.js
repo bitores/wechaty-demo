@@ -105,7 +105,7 @@ bot.on('scan', (url, code) => {
             console.log('是否是星标朋友：', fromContact.star())
             console.log('内容：', content)
 
-        if(fromContact.weixin() !== 'Cyndiq90') return;
+        if(fromContact.weixin() === 'xxx') return;
             
             if(/ding/i.test(content)) {
             	Room.find({topic: '/hhf/i'})
